@@ -12,3 +12,5 @@ FE (Tyler): post-here.netlify.com
 BE (Team Double D): https://post-here.herokuapp.com
 DS (The Number Nerds): http://buildweekredditpredict-env.zfm3nfznwp.us-east-1.elasticbeanstalk.com
 ```
+
+Link to Sprint Retroactive: https://docs.google.com/document/d/1F8eaY7zlZ9XOZfP4coW9diBFDAGpT3Fnd011mGrw3kY/edit?usp=sharing
